@@ -1,8 +1,11 @@
 # movie-data
 
+For this project, I developed a movie data website. The site is designed to display information from a provided JavaScript object about various movies. I populated the user interface with this data to enable users to easily access different movies based on their release dates.
+
+&nbsp;
+
 **PLANNING:**
 
-For this project, I developed a movie data website. The site is designed to display information from a provided JavaScript object about various movies. I populated the user interface with this data to enable users to easily access different movies based on their release dates.
 
 - When planning this project, I used the requirements provided as a foundation for guiding the development of the webpages functionality. With these guidelines in mind, I brainstormed various ways to implement the layout and design of the user interface. I considered various factors such as ease of navigation.
 
