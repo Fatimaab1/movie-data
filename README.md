@@ -4,12 +4,7 @@ For this project, I developed a movie data website. The site is designed to disp
 
 &nbsp;
 
-**PLANNING:**
-
-
-- When planning this project, I used the requirements provided as a foundation for guiding the development of the webpages functionality. With these guidelines in mind, I brainstormed various ways to implement the layout and design of the user interface. I considered various factors such as ease of navigation.
-
-- To plan the implementation of the design, I began by creating a low fidelity wireframe. This enabled me to sketch out the basic layout and structure the interface, as well as how I would incorporate the JavaScript data provided into the design
+ interface, as well as how I would incorporate the JavaScript data provided into the design
 
 &nbsp;
 
